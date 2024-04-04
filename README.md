@@ -1,1 +1,1 @@
-# Day-45-scholarship-management-system-for-students
+Day-45-Scholarship-Management-System-for-Students
